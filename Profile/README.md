@@ -1,9 +1,9 @@
-# Welcome to AI Flow Solutions
+# Welcome to A(G)I Flow Solutions
 ![AIFlowSolutions Banner 02](https://github.com/AiFlowSolutions/.github-private/assets/53354401/6b4411f1-a71c-47d4-9f39-bf429cd7fc97)
 
 ## Our Endeavor
 
-AI Flow Solutions is committed to pioneering the advancement of artificial intelligence and machine learning technologies. This GitHub organization is the nexus of our technical endeavors, where innovation meets practicality to solve tomorrow's challenges today.
+A(G)I Flow Solutions is committed to pioneering the advancement of artificial intelligence and machine learning technologies. This GitHub organization is the nexus of our technical endeavors, where innovation meets practicality to solve tomorrow's challenges today.
 
 
 ## Our Philosophy
